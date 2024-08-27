@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MobilePicsumTest
+
+  Created by Artiom Rastegaev on 2024-08-26.
+  
+*/
+
+"load_photo"        = "Load photo";
+"delete_all"        = "Delete all";
+"ok"                = "Ok";
+"all_data_fetched"  = "All data are fetched!";
+"oops"              = "Oops!";

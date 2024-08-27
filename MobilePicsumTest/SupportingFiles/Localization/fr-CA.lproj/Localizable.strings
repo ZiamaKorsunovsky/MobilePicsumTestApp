@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MobilePicsumTest
+
+  Created by Artiom Rastegaev on 2024-08-26.
+  
+*/
+
+"load_random_action"    = "Load random photo";
